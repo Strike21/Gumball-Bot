@@ -28,9 +28,9 @@ Eu tenho 14 anos e fiz esse bot com intuito dele <br>
 ser um grande bot. Eu gosto de programar e de jogar <br>
 jogos online.<br><br>
 
-####
 
- Se quiser saber um pouco mais de mim: <br>
+
+ #### Se quiser saber um pouco mais de mim: <br>
  - GitHub: `https://github.com/Strike21`
  - Twitter: `https://twitter.com/strike_dev2121`
  - Gmail: `arthur.garin.dev@gmail.com`
