@@ -18,7 +18,7 @@ um bot onde você consegue controlar um server inteiro com ele.
 
 <br>
 
-# 
+
 ⠀⠀⠀
 <br>
 
@@ -31,7 +31,7 @@ jogos online.<br><br>
 
 <br>
 
- #### Se quiser saber um pouco mais de mim: <br>
+  Se quiser saber um pouco mais de mim: <br>
  - GitHub: `https://github.com/Strike21`
  - Twitter: `https://twitter.com/strike_dev2121`
  - Gmail: `arthur.garin.dev@gmail.com`
