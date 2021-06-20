@@ -4,9 +4,12 @@
 <br>
 <br>
 
-##
+## ⠀⠀⠀⠀⠀⠀⠀
 
-## Quem é gumball?
+<br>
+<br>
+
+### Quem é gumball?
 
 Gumball é um simples bot do discord com 30 comandos apenas. <br>
 Ele conta com comandos de diversão, memes, modificação de <br>
@@ -15,4 +18,4 @@ um bot onde você consegue controlar um server inteiro com ele.
 <br>
 <br>
 
-##
+## ⠀⠀⠀⠀⠀⠀⠀
